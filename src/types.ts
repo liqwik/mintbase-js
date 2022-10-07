@@ -7,6 +7,7 @@ enum Chain {
 enum Network {
   mainnet = 'mainnet',
   testnet = 'testnet',
+  localnet = 'localnet',
 }
 
 interface NEARConfig {
