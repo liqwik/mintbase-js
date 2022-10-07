@@ -1,7 +1,7 @@
 {
   "name": "mintbase",
   "version": "0.8.0",
-  "description": "Mint, sell, transfer NFTs on the NEAR blockchain",
+  "description": "Liqwik Fork Mint, sell, transfer NFTs on the NEAR blockchain",
   "main": "lib/index.js",
   "scripts": {
     "build": "tsc && npm run build:js",
@@ -24,7 +24,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Mintbase/mintbase-js.git"
+    "url": "git+https://github.com/liqwik/mintbase-js"
   },
   "files": [
     "lib",
@@ -38,9 +38,9 @@
   "author": "@nategeier",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Mintbase/mintbase-js/issues"
+    "url": "https://github.com/liqwik/mintbase-js/issues"
   },
-  "homepage": "https://github.com/Mintbase/mintbase-js#readme",
+  "homepage": "https://github.com/liqwik/mintbase-js#readme",
   "dependencies": {
     "@types/retry": "^0.12.1",
     "bn.js": "^5.2.0",
